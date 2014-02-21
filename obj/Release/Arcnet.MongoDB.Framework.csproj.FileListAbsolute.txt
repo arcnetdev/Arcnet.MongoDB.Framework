@@ -1,0 +1,8 @@
+C:\Users\Lucas\Desktop\Arcnet\Arcnet.MongoDB.Framework\bin\Release\Arcnet.MongoDB.Framework.dll
+C:\Users\Lucas\Desktop\Arcnet\Arcnet.MongoDB.Framework\bin\Release\Arcnet.MongoDB.Framework.pdb
+C:\Users\Lucas\Desktop\Arcnet\Arcnet.MongoDB.Framework\bin\Release\MongoDB.Bson.dll
+C:\Users\Lucas\Desktop\Arcnet\Arcnet.MongoDB.Framework\bin\Release\MongoDB.Driver.dll
+C:\Users\Lucas\Desktop\Arcnet\Arcnet.MongoDB.Framework\bin\Release\MongoDB.Bson.xml
+C:\Users\Lucas\Desktop\Arcnet\Arcnet.MongoDB.Framework\bin\Release\MongoDB.Driver.xml
+C:\Users\Lucas\Desktop\Arcnet\Arcnet.MongoDB.Framework\obj\Release\Arcnet.MongoDB.Framework.dll
+C:\Users\Lucas\Desktop\Arcnet\Arcnet.MongoDB.Framework\obj\Release\Arcnet.MongoDB.Framework.pdb
