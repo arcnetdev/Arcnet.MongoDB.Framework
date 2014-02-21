@@ -10,8 +10,7 @@ A ConnectionString padrão é denominada por "MongoServerSettings"
   </connectionStrings>
 </configuration>
 ```
-
-*NOTA:* Construtores sem parâmetros usam automaticamente a ConnectionString padrão.
+NOTA: Construtores sem parâmetros usam automaticamente a ConnectionString padrão.
 
 ### Utilizando o MongoRepository
 
@@ -46,12 +45,6 @@ NOTA: A anotação "MongoCollectionName" nas entidades é obrigatória na utiliz
 #### Inserindo Dados
 
 ```csharp
-using Arcnet.MongoDB.Framework.Attributes;
-using Arcnet.MongoDB.Framework.Repository;
-using MongoDB.Bson.Serialization.Attributes;
-using MongoDB.Bson.Serialization.IdGenerators;
-using NUnit.Framework;
-
 [TestFixture]
 public class Test
 {
