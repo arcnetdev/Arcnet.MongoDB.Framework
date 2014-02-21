@@ -1,3 +1,5 @@
+NuGet : https://www.nuget.org/packages/Arcnet.MongoDB.Framework/
+
 ## Utilizando o MongoDB.Framework
 
 ### Configuração
