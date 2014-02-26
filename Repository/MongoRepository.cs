@@ -196,6 +196,13 @@ namespace Arcnet.MongoDB.Framework.Repository
             return _collection.GetIndexes();
         }
 
+        public IList<TMember> Distinct<TMember>(string key)
+        {
+            var values = _collection.Distinct<TMember>(key);
+            return values.ToList();
+        } 
+
+
         //public T Add(T entity)
         //{
         //    throw new NotImplementedException();

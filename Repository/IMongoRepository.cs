@@ -32,7 +32,8 @@ namespace Arcnet.MongoDB.Framework.Repository
         void EnsureIndex(IMongoIndexKeys keys);
         void EnsureIndex(IMongoIndexKeys keys, IMongoIndexOptions options);
         GetIndexesResult GetIndexes();
-        
+        IList<TMember> Distinct<TMember>(string key);
+
         ///// <summary>
         ///// Adds the new entity in the repository.
         ///// </summary>
